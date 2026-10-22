@@ -93,6 +93,7 @@ projeto4/
 **Wanderson Chaves Alves**, 
 **Daniel Paz Dos Passos**
 GitHub: [@WDChavez](https://github.com/WDChavez)
+        [@DanKallaharii](https://github.com/DanKallaharii)
 
 ---
 
