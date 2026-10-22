@@ -90,7 +90,7 @@ projeto4/
 
 ## 👨‍💻 Autores
 
-**Wanderson Chaves Alves**
+**Wanderson Chaves Alves**, 
 **Daniel Paz Dos Passos**
 GitHub: [@WDChavez](https://github.com/WDChavez)
 
